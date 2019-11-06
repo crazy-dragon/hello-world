@@ -1,2 +1,4 @@
 # hello-world
-My first repository.
+
+Hello, everyone!
+I like java, and now I am a javaer!
